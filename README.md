@@ -10,6 +10,7 @@ Atualmente estudo An√°lise e Desenvolvimento de sistemas, buscando migrar para √
 https://github.com/rafapaivas/empresas-tech
 
 ### Certificados :memo:
+- [JavaScript](https://drive.google.com/file/d/1_7QgqZVgm4DvEjrAWuNNvEA_RWzNZwul/view?usp=sharing)
 - [Scrum](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-RafaelPaivadaSilva-738018.pdf)
 
 ### Contato
